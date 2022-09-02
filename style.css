@@ -187,7 +187,7 @@ button:hover{
 
 .grid-item {
     width: 87%;
-    background-image: url(engine1.jpg);
+    background-image: url(images/engine1.jpg);
     background-color: rgba(68, 68, 68, 0.8);
     border: 0px solid rgba(179, 179, 179, 0.8);
     padding: 150px;
@@ -200,7 +200,7 @@ button:hover{
 
 .grid-item2 {
     width: 87%;
-    background-image: url(net1.jpg);
+    background-image: url(images/net1.jpg);
     background-color: rgba(68, 68, 68, 0.8);
     border: 0px solid rgba(0, 0, 0, 0.8);
     padding: 150px;
